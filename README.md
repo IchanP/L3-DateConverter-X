@@ -9,4 +9,4 @@ This application is part of the course `1DV610 - Introduction to Software Qualit
 1. Clone this repo
 2. Run npm install to install the required dependencies
 3. `npm run dev` to start the development server
-4. Open `http://localhost:3000` in your browser
+4. Open `http://localhost:5173` in your browser

@@ -15,9 +15,23 @@ Anyone who wishes to convert a date to another form of calendar or quickly edit 
 
 ## Requirements
 
-* Users can input or upload longer text into the application. The app will automatically identify and highlight dates within the text, allowing users to convert them to their preferred calendar system with ease.
+* Users can input or upload longer text into the application. The app will automatically identify dates within the text and provide an extract with the modified dates.
 
 * The app should use the [TemporalConverter](https://github.com/IchanP/TemporalConverter) module to convert between calendars.
+
+* The user should be able to convert interchangably between [Kōki](https://en.wikipedia.org/wiki/Japanese_imperial_year), [Japanese Era](https://en.wikipedia.org/wiki/Japanese_era_name) and the [Gregorian](https://en.wikipedia.org/wiki/Gregorian_calendar) calendars.
+
+* For [Gregorian](https://en.wikipedia.org/wiki/Gregorian_calendar) it should in text recognize the following formats:
+
+| Date Format     |
+|-----------------|
+| YYYY/MM/DD      |
+| DD/MM/YYYY      |
+| MM/DD/YYYY      |
+| "Month" Year    |
+| Year "Month"    |
+| MM/YYYY         |
+| YYYY/MM         |
 
 ### Tech Stack
 
