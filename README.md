@@ -1,6 +1,6 @@
 # Laboration 3 - Application
 
-This application is part of the course ``1DV610 - Introduction to Software Quality`` at [Linneaus University](https://lnu.se/), Sweden.
+This application is part of the course `1DV610 - Introduction to Software Quality` at [Linneaus University](https://lnu.se/), Sweden.
 
 ## Usage
 
