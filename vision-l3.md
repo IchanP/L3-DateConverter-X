@@ -31,7 +31,9 @@ Anyone who wishes to convert a date to another form of calendar or quickly edit 
 | MM/YYYY         |
 | YYYY/MM         |
 
-## Non
+### Non-Functional Requirements
+
+* All code must be encapsulated inside a class, unless it is required to start the code.
 
 ### Tech Stack
 
