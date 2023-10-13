@@ -30,4 +30,4 @@ Contributors to the original repository will review your changes, suggest modifi
 
 ### License
 
-Part of a laboration in the course `1DV610`` at [Linneaus University](https://lnu.se/). Published under [MIT](./LICENSE) License.
+Part of a laboration in the course `1DV610` at [Linneaus University](https://lnu.se/). Published under [MIT](./LICENSE) License.
