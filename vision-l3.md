@@ -5,15 +5,13 @@
  Should be an easy and painless way for users to quickly edit dates in longer articles/texts to fit a different calendar.
  DateConverter aims to be a seamless, non-confusing way for users to quickly convert dates in larger texts, or simply dates to different calendars.
 
-### Background and Problem (?)
-
 ### Users
 
 Anyone who wishes to convert a date to another form of calendar or quickly edit a longer text to match a different calendar.
 
-### Stake Holders(?)
-
 ## Requirements
+
+### Functional Requirements
 
 * Users can input or upload longer text into the application. The app will automatically identify dates within the text and provide an extract with the modified dates.
 
@@ -21,7 +19,7 @@ Anyone who wishes to convert a date to another form of calendar or quickly edit 
 
 * The user should be able to convert interchangably between [Kōki](https://en.wikipedia.org/wiki/Japanese_imperial_year), [Japanese Era](https://en.wikipedia.org/wiki/Japanese_era_name) and the [Gregorian](https://en.wikipedia.org/wiki/Gregorian_calendar) calendars.
 
-* For [Gregorian](https://en.wikipedia.org/wiki/Gregorian_calendar) it should in text recognize the following formats:
+* For [Gregorian](https://en.wikipedia.org/wiki/Gregorian_calendar) it should, in text, recognize the following formats:
 
 | Date Format     |
 |-----------------|
@@ -32,6 +30,8 @@ Anyone who wishes to convert a date to another form of calendar or quickly edit 
 | Year "Month"    |
 | MM/YYYY         |
 | YYYY/MM         |
+
+## Non
 
 ### Tech Stack
 
